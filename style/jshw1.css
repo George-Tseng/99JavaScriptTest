@@ -1,0 +1,17 @@
+body {
+    width: 800px;
+    margin: 20px auto auto;
+}
+table {
+    background-color: aqua;
+    border: solid 2px blue;
+    color: red;
+    border-collapse:collapse; 
+    margin: 10px auto auto;
+}
+
+/*border-collapse:collapse可以用來讓框線貼齊*/
+
+td {
+    border-left: solid 2px blue;
+}
